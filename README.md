@@ -1,40 +1,40 @@
 # Data-Scientist-Blog-Post
 ### Udacity Data Scientist Nanodegree Project 1
 
-Installations
-
-Project Motivation
-
-File Descriptions
-
-How to Interact with your project
-
-Licensing, Authors, Acknowledgements, etc
-
-
+## Introduction
 For this project, I created a blog post on medium about Stack Overflow and this accompanying Github repository to add to my Data Science portfolio.
 
 ## Project Motivation
 I use Stack Overflow to debug. i am interested in the pattern of users from around the globe.
 
-## Blog post
-https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-names-a60c6e1a6615
+Understanding the demographics of users of stack overflow gives insight to the business on where their market lies and how best to improve and target audience.
+
+For users, it helps understand better the community they wish to be a part of and the preference of their peers.
+
+To understand the demographics, three questions are answered as follows:
+
+* What Countres have the most Stack Overflow Activities?
+
+* What is the distribution of Main Branches using Stack Overflow?
+
+* What is the Age distribution of Stack Overflow users?
+
+
+## File Descriptions
+Analysis.ipynb - Jupyter notebook containing python code used for analysis.
+
 
 ## Setup
 Clone/download this repository to your local computer
 
 Install any python package dependencies pip install -r requirements.txt
 
-Then all you need to do is open up analysis.ipynb in jupyter notebook as per: jupyter notebook analysis.ipynb
+Then all you need to do is open up Analysis.ipynb in jupyter notebook as per: jupyter notebook Analysis.ipynb
 
-For a seamless experience, it is recommended that you install Python 3 through the Anaconda distribution as per: https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/
+For a seamless experience, it is recommended to use Google Colab
 
-## Files/folders
-data: The raw source data which includes baby names by year, by year and US state, and shape files for US states to generate state maps
+## Blog post
+[Stack Overflow 2022 Demographics](https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-names-a60c6e1a6615)
 
-figs: Any charts/figures generated that were published to the blog
-
-Source Data
-US Baby Names - https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data
-
-US State Maps - https://www.arcgis.com/home/item.html?id=b07a9393ecbd430795a6f6218443dccc
+## Source Data
+[Stack overflow 2022](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2022.zip)
