@@ -34,7 +34,7 @@ Then all you need to do is open up Analysis.ipynb in jupyter notebook as per: ju
 For a seamless experience, it is recommended to use Google Colab
 
 ## Blog post
-[Stack Overflow 2022 Demographics](https://medium.com/@jsohi/whats-in-a-name-an-analysis-of-over-a-century-of-baby-names-a60c6e1a6615)
+[Stack Overflow 2022 Demographics](medium.com/@confidencevandu/stack-overflow-demographics-25d80409e094)
 
 ## Source Data
 [Stack overflow 2022](https://info.stackoverflowsolutions.com/rs/719-EMH-566/images/stack-overflow-developer-survey-2022.zip)
